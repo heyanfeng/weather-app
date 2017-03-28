@@ -3,13 +3,10 @@
 > A Vue.js project
 # 演示
 ![点击查看演示效果](https://github.com/heyanfeng/weather-app/blob/master/static/demo/demo.gif)
-<<<<<<< HEAD
 
 #api 心知天气付费试用版
 https://www.seniverse.com/
 
-=======
->>>>>>> 7cf3ee8b389030f5d0b983f52cb9af3456f612ef
 ## Build Setup
 
 ``` bash
