@@ -2,7 +2,7 @@
 
 > A Vue.js project
 # 演示
-![点击查看演示效果](http://git.sdp.nd/app-web/student-demo/blob/heyanfeng/src/main/js/weather/static/demo/demo.gif)
+![点击查看演示效果](https://github.com/heyanfeng/weather-app/blob/master/static/demo/demo.gif)
 ## Build Setup
 
 ``` bash
